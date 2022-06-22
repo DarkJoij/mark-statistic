@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Mini package counting your exams results.",
   "main": "./index.d.ts",
-  "scripts": {
-    "test": "node ./tests/test.js"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/DarkJoij/mark-statistic"
@@ -22,9 +19,4 @@
     "url": "https://github.com/DarkJoij/mark-statistic/issues"
   },
   "homepage": "https://github.com/DarkJoij/mark-statistic#readme",
-  "dependencies": {
-    "@types/node": "^17.0.44",
-    "ts-node": "^10.8.1",
-    "typescript": "^4.7.3"
-  }
 }
